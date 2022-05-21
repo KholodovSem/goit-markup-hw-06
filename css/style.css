@@ -98,6 +98,11 @@ a {
   cursor: pointer;
 }
 
+.modal-button:hover,
+.modal-button:focus {
+  color: var(--blue);
+}
+
 .close-icon {
   fill: currentColor;
 }
