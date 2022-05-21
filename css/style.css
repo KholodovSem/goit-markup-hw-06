@@ -96,6 +96,8 @@ a {
   border-radius: 50%;
 
   cursor: pointer;
+
+  transition: color 250ms var(--default-timing-function);
 }
 
 .modal-button:hover,
